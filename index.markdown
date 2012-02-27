@@ -1,0 +1,11 @@
+---
+title: jngrt on github
+---
+
+# Jan-Geert Munneke on GitHub
+
+[jngrt.com](http://jngrt.com) might contain more info.
+
+For now it's just:
+
+* [infinite maze three.js experiment](https://jngrt.github.com/infinite_maze_three.js)
