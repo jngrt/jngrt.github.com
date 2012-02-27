@@ -5,7 +5,7 @@ title: jngrt on github
 
 Find me  
 
-* [me on GitHub](https://github.com/jngrt/)  
+* [on GitHub](https://github.com/jngrt/)  
 
 * [on jngrt.com](http://jngrt.com)   
   
