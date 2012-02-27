@@ -2,10 +2,13 @@
 title: jngrt on github
 ---
 
+
+Find me  
+
 * [me on GitHub](https://github.com/jngrt/)  
 
-* [jngrt.com](http://jngrt.com) might contain more info.  
+* [on jngrt.com](http://jngrt.com)   
   
-For now it's just:  
+Check out:  
 
 * [infinite maze three.js experiment](http://jngrt.github.com/infinite_maze_three.js)  
